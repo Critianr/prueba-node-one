@@ -1,0 +1,16 @@
+div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* align-content: center; */
+    /* align-self: center; */
+    align-items: center;
+}
+h1{
+    padding: 15px 0;
+    font-size: 40px;
+}
+input{
+    font-size: large;
+}
+
