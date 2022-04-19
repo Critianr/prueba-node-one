@@ -2,7 +2,7 @@
 
 
 # Correr en desarrollo
- npm run de
+ npm run dev
 
 # Correr producción
  npm start
