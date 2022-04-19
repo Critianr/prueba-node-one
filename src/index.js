@@ -65,7 +65,7 @@ app.post("/weather", async (req,res)=>{
   });
         
     }else {
-        res.send( 'Hello World' );
+        res.send( 'fallo de renderizado' );
     }
 })
 
